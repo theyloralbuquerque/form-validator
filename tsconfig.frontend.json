@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es2016",
+        "lib": ["ESNext", "DOM"],
+        "module": "commonjs",
+        "outDir": "./frontend/assets/js",
+        "strict": true,
+        "esModuleInterop": true
+        // "forceConsistentCasingInFileNames": true,
+        // "skipLibCheck": true
+    },
+    "include": ["./src"]
+}
